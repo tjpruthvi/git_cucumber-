@@ -19,6 +19,9 @@ public class hooks {
 	public void tearDown()
 	{
 		System.out.println("clear the entries");
+		System.out.println("this is new update by indian guy");
+		System.out.println("this is new update by indian guy");
+		
 	}
 }
 
